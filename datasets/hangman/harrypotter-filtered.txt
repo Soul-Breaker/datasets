@@ -128,3 +128,13 @@ timeturner
 firenze
 fang
 quidditch
+unicorn
+buckbeak
+grawp
+norbert
+thestral
+fluffy
+howler
+boggart
+animagus
+werewolf
