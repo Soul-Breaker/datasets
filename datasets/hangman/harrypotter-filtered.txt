@@ -1,6 +1,6 @@
 harrypotter
 hermionegranger
-lordvoldermort
+lordvoldemort
 dracomalfoy
 albusdumbledore
 severussnape
@@ -44,7 +44,7 @@ remuslupin
 peterpettigrew
 sybilltrelawney
 charlieweasley
-norris
+mrsnorris
 cedricdiggory
 viktorkrum
 alastormoody
@@ -52,7 +52,7 @@ chochang
 bartemiuscrouchsr
 igorkarkaroff
 bartycrouchjr
-moaningmurtle
+moaningmyrtle
 padmapatil
 parvatipatil
 amosdiggory
@@ -119,3 +119,4 @@ kingscrossstation
 deatheaters
 muggles
 stupefy
+ritaskeeter
